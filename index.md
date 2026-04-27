@@ -18,7 +18,7 @@ Token-Economy-Wiki/
 ├── queries/           # 实战攻略
 │   ├── Token中间商完整攻略.md
 │   └── Token经济商业模式全景.md
-└── raw/               # 原始材料（20个文件）
+└── raw/               # 原始材料（22个MD文件 + 3个PDF）
 ```
 
 ---
