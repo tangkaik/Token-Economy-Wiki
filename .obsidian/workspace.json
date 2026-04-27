@@ -201,6 +201,7 @@
   },
   "active": "b20c0037886ccb4c",
   "lastOpenFiles": [
+    "queries/卖账号模式完整攻略.md",
     "raw/XX_AI_Token经济个人参与者商业机会深度调研报告.md",
     "raw/Grok_2024-2026_AI_Token经济.md",
     "raw/Gemini_2024-2026年AI_Token经济.md",
@@ -226,7 +227,6 @@
     "_meta/ingest-report.md",
     "log.md",
     "index.md",
-    "SCHEMA.md",
     "_meta",
     "queries",
     "comparisons",

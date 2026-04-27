@@ -17,7 +17,8 @@ Token-Economy-Wiki/
 │   └── AI平台定价对比.md
 ├── queries/           # 实战攻略
 │   ├── Token中间商完整攻略.md
-│   └── Token经济商业模式全景.md
+│   ├── Token经济商业模式全景.md
+│   └── 卖账号模式完整攻略.md
 └── raw/               # 原始材料（22个MD文件 + 3个PDF）
 ```
 
